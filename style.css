@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(38, 96, 230);
+    text-align: center;
+}
+.header_div{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Special Elite', cursive;
+color: coral;
+text-align: center;
+}
+.header_div p{
+    font-size: large;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
+.main_div{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Special Elite', cursive;
+color: coral;
+text-align: center;
+font-size: large;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
+#copy_right_footer{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Special Elite', cursive;
+color: coral;
+text-align: center;
+font-size: large;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
